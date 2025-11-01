@@ -47,5 +47,5 @@ MZ세대의 가치관(건강, 합리성, 자기관리)을 반영한 **효과적�
 ---
 
 ## 🧾 Colab link
-🔗 (https://colab.research.google.com/drive/13MAZ3_cUJrcZhFZOsJ3Ktya5wub_zteX?usp=sharing)
+🔗 https://colab.research.google.com/drive/13MAZ3_cUJrcZhFZOsJ3Ktya5wub_zteX?usp=sharing
 
