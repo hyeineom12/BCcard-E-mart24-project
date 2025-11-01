@@ -46,9 +46,6 @@ MZ세대의 가치관(건강, 합리성, 자기관리)을 반영한 **효과적�
 
 ---
 
-## 🧾 Notebook
-🔗 (https://colab.research.google.com/drive/13MAZ3_cUJrcZhFZOsJ3Ktya5wub_zteX?usp=sharing)]
+## 🧾 Colab link
+🔗 (https://colab.research.google.com/drive/13MAZ3_cUJrcZhFZOsJ3Ktya5wub_zteX?usp=sharing)
 
----
-
-> _“데이터는 소비자의 마음을 가장 솔직하게 보여주는 거울이다.”_
